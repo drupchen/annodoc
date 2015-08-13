@@ -36,7 +36,7 @@ Link: [link text](http://www.example.com)
 
 # Some visualizations
 
-~~~
+~~~conllu
 1	བཅོམ་ལྡན་འདས	bcom_ldan_'das	PROPN	PROPN	_	65	vocative	_	Bhagavat|Sanskrit=bhagavan
 2	།	/	PUNCT	PUNCT	_	54	punct	_	_
 3	བྱང་ཆུབ་སེམས་དཔའ་	byang_chub_sems_dpa'	NOUN	NOUN	_	58	appos	_	bodhisattva|Sanskrit=bodhisattvo
