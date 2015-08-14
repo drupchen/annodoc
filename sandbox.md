@@ -87,6 +87,15 @@ Dynamic visualization (click "edit!")
 2   example   example   NN    _    _    0    root    _    _
 </div>
 
+
+<div class="conllu-parse" tabs="yes">
+1     I         I      PRON    PRN   Case=Nom|Number=Sing|Person=1                  2   nsubj
+2     haven't   _      VERB    _     Negative=Neg|Number=Sing|Person=1|Tense=Pres   0   root
+3     a         a      DET     DT    Definite=Ind|PronType=Art                      4   det
+4     clue      clue   NOUN    NN    Number=Sing                                    2   dobj
+5     .         .      PUNCT   .     _                                              2   punct
+</div>
+
 <div class="conllu-parse" tabs="yes">
 # sentence-label S1
 1   CoNLL-U   CoNLL-U   NNP   _    _    2    nmod    _    _
